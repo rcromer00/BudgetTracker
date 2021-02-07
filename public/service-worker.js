@@ -1,9 +1,10 @@
 const FILES_TO_CACHE = [
     "/",
-    "/index.html",
+    /*"/index.html",*/
     "/index.js",
     "/db.js",
-    "/style.css"];
+    "/manifest.json",
+    "/styles.css"],;
 
 const PRECACHE = 'precache-v1';
 const RUNTIME = 'runtime';
